@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85048050</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>The protagonist recounts his youthful adventures in the Caribbean, filled with pirates, daring escapes, and newfound love.</dc:abstract>
+		<meta property="schema:abstract">The protagonist recounts his youthful adventures in the Caribbean, filled with pirates, daring escapes, and newfound love.</meta>
 		<dc:description>
 			&lt;p&gt;John Kemp is a young English lad who dreams of adventure (the titular “romance”)—and, through his dealings with local smugglers, soon gets his wish as he’s swept away to the Caribbean. There he meets admirals and pirates, nobles and rebels, merchants and seamen. Above all, he finds love—but first has to escape with his life.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Romance&lt;/i&gt;, published in 1903, is the second of three collaborations between &lt;a href="https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford"&gt;Joseph Conrad and Ford Madox Ford&lt;/a&gt;. As an adventure novel it enjoyed some commercial success and was adapted into a silent movie in 1927. Today, it’s a mostly forgotten footnote among the authors’ more critically acclaimed works.&lt;/p&gt;
